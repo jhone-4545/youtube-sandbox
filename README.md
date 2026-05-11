@@ -13,7 +13,7 @@
 
 ### ۱. این ریپو رو فورک کن
 ### ۲. برو به **Settings → Action........s → General**
-### ۳. در بخش **Workflow permissions** گسزینه **Read and write pddermissions** رو انتخاب کن و **Save** رو بزن.
+### ۳. در بخش **Workflow permissions** گسزینه **Read and write pddermissions** رو انتخاب cکن و **Save** رو بزن.
 ### ۴. ساخت Secret برای کوکی‌ها (خیلی مهم!)
 
 یوتیوب ربات‌ها رو ت.....شخیص می‌ده، برای همین باید خودمون رو مثل یه کاربر واقعی نشون بدیم.
